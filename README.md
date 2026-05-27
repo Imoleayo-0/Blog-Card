@@ -33,8 +33,8 @@ Flexbox
 ![project preview](image.png)
 
 🔗 Live Demo
-Live Site URL: 
-Repository URL:
+Live Site URL: https://blog-card-five-sigma.vercel.app/
+Repository URL: https://github.com/Imoleayo-0/Blog-Card
 
 # What I Learned
 
@@ -43,7 +43,7 @@ While building this project, I improved my understanding of responsive card layo
 I also learned how to create clean modern card components with proper spacing and typography.
 
 # Author
-Website -[Akinyemi Imoleayo]() 
+Website -[Akinyemi Imoleayo](https://blog-card-five-sigma.vercel.app/) 
 Frontend Mentor - [@Imoleayo-0](https://www.frontendmentor.io/profile/Imoleayo-0)
 
 # Acknowledgements
